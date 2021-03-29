@@ -1,4 +1,4 @@
-# 🚀👨🏾‍🚀 Journey-Ignite-Rocketseat-Module-02-Challenge-01-Creating-a-shopping-cart-hook
+# 🚀👨🏾‍🚀 Journey-Ignite-Rocketseat-Module-02 -> Challenge-01-Creating-a-shopping-cart-hook
 
 Nesse desafio o objetivo principal foi criar um hook de carrinho de compras. Nela existe um hook que implementa as seguintes funcionalidades:
 
@@ -9,3 +9,6 @@ Nesse desafio o objetivo principal foi criar um hook de carrinho de compras. Nel
 - Validação de estoque;
 - Exibição de mensagens de erro;
 - Entre outros.
+
+![](image01.png)
+![](image02.png)
